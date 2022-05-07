@@ -15,10 +15,10 @@ This is a little project based on the assigment given in [The Odin Project](http
   <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html" width="40" height="40" align="center"/> </a> &ensp;
 
 - CSS3
-  <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="css" width="40" height="40"/> </a> &ensp;
+  <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="css" width="40" height="40" align="center"/> </a> &ensp;
 
 - Git
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a> &ensp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="git" width="40" height="40" align="center"/> </a> &ensp;
 
 <h2> Badges </h2>
 
