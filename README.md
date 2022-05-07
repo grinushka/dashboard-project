@@ -11,11 +11,14 @@ This is a little project based on the assigment given in [The Odin Project](http
 <!--
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &emsp; -->
 
-- HTML5 &nbsp; <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/> </a> &ensp;
+- HTML5
+  <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/> </a> &ensp;
 
-- CSS3 &nbsp; <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="css" width="40" height="40"/> </a> &ensp;
+- CSS3
+  <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="css" width="40" height="40"/> </a> &ensp;
 
-- Git &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a> &ensp;
+- Git
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="git" width="40" height="40"/> </a> &ensp;
 
 ## Badges
 
