@@ -1,3 +1,4 @@
+/* General styling */
 * {
   font-family: "Roboto", sans-serif;
   box-sizing: border-box;
@@ -170,7 +171,7 @@ input {
   color: white;
 }
 
-/* MAIN (3)*/
+/* MAIN (cards)*/
 
 .projects {
   grid-column: 1/2;
@@ -197,8 +198,6 @@ input {
 /* Projects */
 
 .card {
-  /* width: 48%;
-  height: 37%; */
   background-color: rgb(255, 255, 255);
   border-radius: 10px;
   border-left: 7px solid #ffe477;
@@ -218,13 +217,6 @@ input {
   grid-template-columns: repeat(auto-fit, minmax(45%, 1fr));
   gap: 1rem;
 }
-/* .all-cards {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2rem;
-  align-items: center;
-  justify-content: space-between;
-} */
 
 .card h4 {
   margin-bottom: 0.3rem;
