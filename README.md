@@ -4,12 +4,9 @@ This is a little project based on the assigment given in [The Odin Project](http
 
 <h2> Screenshots </h2>
 
-![App Screenshot]()
+![App Screenshot](/dashboard-preview.png)
 
 <h2> Technologies Used </h2>
-
-<!--
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &emsp; -->
 
 - HTML5
   <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer"> &nbsp; <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html" width="40" height="40" align="center"/> </a>
@@ -21,13 +18,13 @@ This is a little project based on the assigment given in [The Odin Project](http
 
 <h2> Badges </h2>
 
-[![Codewars](https://img.shields.io/badge/Codewars-grinushka-red)](https://www.codewars.com/users/grinushka)
-&nbsp;
+[![GitHub](https://img.shields.io/github/followers/grinushka?style=social)](https://github.com/grinushka)
 [![Twitter](https://img.shields.io/twitter/follow/grinushka)](https://twitter.com/grinushka)
+&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-grinushka-red)](https://www.codewars.com/users/grinushka)
 &nbsp;
 [![Vk](https://img.shields.io/badge/Vk-follow-blue)](https://vk.com/grinushka)
 &nbsp;
-[![GitHub](https://img.shields.io/github/followers/grinushka?style=social)](https://github.com/grinushka)
 
 <h2> Acknowledgements </h2>
 
