@@ -100,13 +100,13 @@ body {
 }
 
 .profile-pic.small {
-  background-image: url(https://github.com/grinushka/dashboard-project/blob/main/pictures/profile-1.png);
+  background-image: url(/pictures/profile-1.png);
   width: 2.5rem;
   height: 2.5rem;
 }
 
 .profile-pic.big {
-  background-image: url(https://github.com/grinushka/dashboard-project/blob/main/pictures/profile-1.png);
+  background-image: url(/pictures/profile-1.png);
   width: 3.75rem;
   height: 3.75rem;
 }
